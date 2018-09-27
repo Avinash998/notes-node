@@ -1,4 +1,4 @@
-// console.log('staring App.js');
+console.log('staring App.js');
 
 const fs = require('fs');
 //const os = require('os');
